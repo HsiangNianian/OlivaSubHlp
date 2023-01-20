@@ -1,0 +1,33 @@
+{
+    "name": "OlivaXXX",
+    "author": "简律纯",
+    "namespace": "OlivaXXX",
+    "info": "基本信息:\nOlivOS XXX插件 by 简律纯(HsiangNianian@outlook.com).\n\n文档: \nhttps://jyunko.cn/OlivaXXX",
+    "priority": 30000,
+    "version": "3.1",
+    "svn": "π",
+    "compatible_svn": 101,
+    "message_mode": "olivos_string",
+    "support": [
+        {
+            "sdk": "onebot",
+            "platform": "qq",
+            "model": "all"
+        },
+        {
+            "sdk": "all",
+            "platform": "all",
+            "model": "all"
+        }
+    ],
+    "menu_config": [
+        {
+            "title": "配置",
+            "event": "Menu_Conf"
+        },
+        {
+            "title": "关于",
+            "event": "Menu_About"
+        }
+    ]
+}
