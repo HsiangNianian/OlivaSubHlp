@@ -46,8 +46,8 @@ exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-  - Gemfile
-  - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
