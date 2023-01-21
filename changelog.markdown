@@ -2,7 +2,6 @@
 layout: page
 title: changeeeees
 disqus: true
-
 ---
 
 ### 2023
@@ -11,7 +10,5 @@ disqus: true
 | | 添加文档 |
 
 {% if site.disqus.shortname %}
-
-        {% include disqus_comments.html %}
-
-    {% endif %}
+  {% include disqus_comments.html %}
+{% endif %}
