@@ -34,6 +34,7 @@ disqus:
   shortname: cypress-github-io
 
 show_excerpts: true
+
 markdown: kramdown
 theme: minima
 # remote_theme: luoyan35714/LessOrMore
