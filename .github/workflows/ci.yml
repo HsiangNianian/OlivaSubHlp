@@ -34,11 +34,11 @@ jobs:
           path: ./${{ env.PACK_NAME }}/app.json
           property: version
 
-      - name: Release Drafter
-        id: releasedraft
-        uses: toolmantim/release-drafter@v5.2.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Release Drafter
+      #   id: releasedraft
+      #   uses: toolmantim/release-drafter@v5.2.0
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # # - name: 读取描述文件
       # #   id: description
