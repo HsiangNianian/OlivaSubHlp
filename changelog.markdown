@@ -1,7 +1,6 @@
 ---
 layout: page
 title: changelog
-layout: home
 permalink: /changelog/
 ---
 
