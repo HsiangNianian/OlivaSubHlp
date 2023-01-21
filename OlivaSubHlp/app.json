@@ -2,7 +2,7 @@
     "name": "OlivaGithub",
     "author": "简律纯",
     "namespace": "OlivaGithub",
-    "info": "基本信息:\nGithub推送插件 by 简律纯(HsiangNianian@outlook.com).\n\n文档: \nhttps://ss.jyunko.cn/",
+    "info": "基本信息:\n推送集合 by 简律纯(HsiangNianian@outlook.com).\n\n文档: \nhttps://hsiangnianian.github.io/OlivaSubHlp/",
     "priority": 30000,
     "version": "3",
     "svn": "π",
