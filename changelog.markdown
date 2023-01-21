@@ -1,7 +1,5 @@
 ---
 layout: page
 title: changelog
-permalink: /changelog/
+permalink: /categories/changelog/
 ---
-
-> 变更日志。
