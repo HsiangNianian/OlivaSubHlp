@@ -33,7 +33,6 @@ github_username:  HsiangNianian
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-categories
 
 # Exclude from processing.
 # The following items will not be processed, by default.
