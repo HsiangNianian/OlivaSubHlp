@@ -36,8 +36,8 @@ disqus:
 show_excerpts: true
 
 markdown: kramdown
-theme: minima
-# remote_theme: luoyan35714/LessOrMore
+# theme: minima
+remote_theme: luoyan35714/LessOrMore
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
